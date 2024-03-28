@@ -1,6 +1,6 @@
 # projet-G1G2
 <p align="center">
-  <img src="muac_3.jpg" alt="Alternative Text" width="300" height="100">
+  <img src="muac_3.jpg" alt="Alternative Text" width="500" height="200">
 </p>
 ![eurocontrol](muac_3.jpg)
 
