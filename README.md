@@ -1,4 +1,5 @@
 # projet-G1G2
+![eurocontrol](muac_3.jpg)
 
 ## Current Situation ;	
 	There exists already two AI models in place in EuroControl that do similar tasks:
