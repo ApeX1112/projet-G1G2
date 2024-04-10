@@ -6,7 +6,7 @@
 
 
 ## Current Situation ;	
-	There exists already two AI models in place in EuroControl that do similar tasks:
+There exists already two AI models in place in EuroControl that do similar tasks:
 An AI model to predict the typical turnaround time
 An AI model to predict the typical taxi-out time
 
