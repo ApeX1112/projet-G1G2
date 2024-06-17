@@ -21,5 +21,4 @@ An AI model to predict the typical taxi-out time
 An AI model to predict the deicing time of a plane
 An API to access such a model
 A visual way to show the previously mentioned AI model working
-	
-A document on how to use all of these programs, what their inputs and outputs are, will also be needed.
+
